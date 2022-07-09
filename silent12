@@ -15,7 +15,7 @@ local Mouse = LocalPlayer:GetMouse()
 -- // Silent Aim Vars
 getgenv().ValiantAimHacks = {
     SilentAimEnabled = true,
-    ShowFOV = true,
+    ShowFOV = false,
     VisibleCheck = true,
     TeamCheck = true,
     FOV = 14,
